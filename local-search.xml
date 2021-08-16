@@ -4,31 +4,6 @@
   
   
   <entry>
-    <title>test2</title>
-    <link href="/21/"/>
-    <url>/21/</url>
-    
-    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><p>123</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>测试</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>test</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>test</title>
     <link href="/20/"/>
     <url>/20/</url>
