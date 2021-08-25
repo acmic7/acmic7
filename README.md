@@ -4,6 +4,8 @@ _College student | Technology fans_
 __❤️Welcome to leave your personal address in [Acmic](https://acmic.top/)__
 
 ![](https://visitor-badge.glitch.me/badge?page_id=acmic7.readme)
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30px">
+
 ## <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50px">Talking about Personal Stuffs:
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning Linux;
@@ -14,10 +16,28 @@ __❤️Welcome to leave your personal address in [Acmic](https://acmic.top/)__
 - 📫 How to reach me: acmic7@163.com
 ## ✨ Profile stats
 <img class="githubimg" src="https://github-readme-stats.vercel.app/api?username=acmic7&show_icons=true&theme=tokyonight" width="500px">
-## Tech Stack
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white4)
+
+## 🛠 Tech Stack
+![](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
 
+## 💭last
+Let's connect and forge the future together.
+Check the Repositories and don't forget to give a star.
 
+
+<!--深色模板-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&hide_langs_below=.25&theme=radical)-->
 
 
