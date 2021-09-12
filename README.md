@@ -15,7 +15,7 @@ __❤️Welcome to leave your personal address in [Acmic](https://acmic.top/)__
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: acmic7@163.com
 ## ✨ Profile stats
-<img class="githubimg" src="https://github-readme-stats.vercel.app/api?username=acmic7&show_icons=true&theme=tokyonight" width="500px">
+<img class="githubimg" src="https://github-readme-stats.vercel.app/api?username=acmic&show_icons=true&theme=tokyonight" width="500px">
 
 ## 🛠 Tech Stack
 ![](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
