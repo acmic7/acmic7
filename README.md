@@ -40,4 +40,4 @@ Check the Repositories and don't forget to give a star.
 <!--深色模板-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&hide_langs_below=.25&theme=radical)-->
 
-
+<!--![](https://github-profile-trophy.vercel.app/?username=acmic7&theme=flat&column=7&margin-w=10)-->
