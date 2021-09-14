@@ -1,7 +1,7 @@
 # 👨‍💻Hi there，I’m acmic👋
 _College student | Technology fans_
 
-__❤️Welcome to leave your personal address in [Acmic](https://acmic.top/)__
+__❤️Welcome to exchange your personal blog address with me in [Acmic](https://acmic.top/)__
 
 ![](https://visitor-badge.glitch.me/badge?page_id=acmic7.readme)
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30px">
