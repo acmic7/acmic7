@@ -17,6 +17,8 @@ __❤️Welcome to exchange your personal blog address with me in [Acmic](https:
 ## ✨ Profile stats
 <img class="githubimg" src="https://github-readme-stats.vercel.app/api?username=acmic7&show_icons=true&theme=tokyonight" width="500px">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acmic7)
+
 ## 🛠 Tech Stack
 ![](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
 ![](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
