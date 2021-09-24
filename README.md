@@ -38,6 +38,8 @@ __❤️Welcome to exchange your personal blog address with me in [Acmic](https:
 Let's connect and forge the future together.
 Check the Repositories and don't forget to give a star.
 
+![](https://ghchart.rshah.org/8e8cd8/Acmic7)
+![](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Acmic&fontSize=60)
 
 <!--深色模板-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&hide_langs_below=.25&theme=radical)-->
