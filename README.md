@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Acmic&fontSize=60)
 # 👨‍💻Hi there，I’m acmic👋
 _College student | Technology fans_
 
@@ -15,9 +16,7 @@ __❤️Welcome to exchange your personal blog address with me in [Acmic](https:
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: acmic7@163.com
 ## ✨ Profile stats
-<img class="githubimg" src="https://github-readme-stats.vercel.app/api?username=acmic7&show_icons=true&theme=tokyonight" width="500px">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acmic7)
+<img class="githubimg" src="https://github-readme-stats.vercel.app/api?username=acmic7&show_icons=true&theme=tokyonight" width="500px">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acmic7)
 
 ## 🛠 Tech Stack
 ![](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
@@ -38,8 +37,8 @@ __❤️Welcome to exchange your personal blog address with me in [Acmic](https:
 Let's connect and forge the future together.
 Check the Repositories and don't forget to give a star.
 
-![](https://ghchart.rshah.org/8e8cd8/Acmic7)
-![](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Acmic&fontSize=60)
+<!--![](https://ghchart.rshah.org/8e8cd8/Acmic7)-->
+
 
 <!--深色模板-->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&hide_langs_below=.25&theme=radical)-->
