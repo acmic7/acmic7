@@ -26,6 +26,9 @@
 ![](https://img.shields.io/badge/Ubuntu-D34313?style=flat-square&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Yolo-0FF?style=flat-square&logo=yolo&logoColor=white)
 ![](https://img.shields.io/badge/Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=white)
+![](https://img.shields.io/badge/SQLite-258FD1?style=flat-square&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Markdown-F2F2F2?style=flat-square&logo=markdown&logoColor=black)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
