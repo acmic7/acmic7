@@ -33,10 +33,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
 ## 💭Last
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acmic7&repo=airlineSystem&theme=buefy)](https://github.com/acmic7/airlineSystem)
+
 Let's connect and forge the future together.
 Check the Repositories and don't forget to give a star.
 <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50px">
-
 
 
 
