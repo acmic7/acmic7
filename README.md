@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/Qt-40CC51?style=flat-square&logo=qt&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-D34313?style=flat-square&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Yolo-0FF?style=flat-square&logo=yolo&logoColor=white)
+![](https://img.shields.io/badge/Hexo-0E83CD?style=flat-square&logo=hexo&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
