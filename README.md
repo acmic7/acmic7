@@ -29,15 +29,9 @@ __❤️Welcome to exchange your personal blog address with me in [Acmic](https:
 ![](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/acmic7/)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
-* 1
-* 2
-** 4
-
-- 3 
--- 5
-- 4
 
 ## 💭Last
 Let's connect and forge the future together.
