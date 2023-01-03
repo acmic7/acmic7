@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/acmic7/)
+![](https://img.shields.io/badge/FontAwesome-74C0FC?style=flat-square&logo=fontawesome&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
