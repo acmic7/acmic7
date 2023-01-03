@@ -22,6 +22,9 @@
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/acmic7/)
 ![](https://img.shields.io/badge/FontAwesome-74C0FC?style=flat-square&logo=fontawesome&logoColor=white)
+![](https://img.shields.io/badge/Qt-40CC51?style=flat-square&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-D34313?style=flat-square&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Yolo-0FF?style=flat-square&logo=yolo&logoColor=white)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acmic7&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acmic7)
 
