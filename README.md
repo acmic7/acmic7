@@ -21,7 +21,6 @@
 ![](https://img.shields.io/badge/Django-46E467?style=flat&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/acmic7/)
 ![](https://img.shields.io/badge/FontAwesome-74C0FC?style=flat&logo=fontawesome&logoColor=white)
 ![](https://img.shields.io/badge/Qt-40CC51?style=flat&logo=qt&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-D34313?style=flat&logo=ubuntu&logoColor=white)
